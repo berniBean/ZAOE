@@ -1,0 +1,17 @@
+C:\Users\ernes\source\repos\AOE\TecnologiasDecorato\bin\Debug\net5.0\TecnologiasDecorato.deps.json
+C:\Users\ernes\source\repos\AOE\TecnologiasDecorato\bin\Debug\net5.0\TecnologiasDecorato.dll
+C:\Users\ernes\source\repos\AOE\TecnologiasDecorato\bin\Debug\net5.0\ref\TecnologiasDecorato.dll
+C:\Users\ernes\source\repos\AOE\TecnologiasDecorato\bin\Debug\net5.0\TecnologiasDecorato.pdb
+C:\Users\ernes\source\repos\AOE\TecnologiasDecorato\bin\Debug\net5.0\Civiles.dll
+C:\Users\ernes\source\repos\AOE\TecnologiasDecorato\bin\Debug\net5.0\ComportamientoCivil.dll
+C:\Users\ernes\source\repos\AOE\TecnologiasDecorato\bin\Debug\net5.0\Civiles.pdb
+C:\Users\ernes\source\repos\AOE\TecnologiasDecorato\bin\Debug\net5.0\ComportamientoCivil.pdb
+C:\Users\ernes\source\repos\AOE\TecnologiasDecorato\obj\Debug\net5.0\TecnologiasDecorato.csprojAssemblyReference.cache
+C:\Users\ernes\source\repos\AOE\TecnologiasDecorato\obj\Debug\net5.0\TecnologiasDecorato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernes\source\repos\AOE\TecnologiasDecorato\obj\Debug\net5.0\TecnologiasDecorato.AssemblyInfoInputs.cache
+C:\Users\ernes\source\repos\AOE\TecnologiasDecorato\obj\Debug\net5.0\TecnologiasDecorato.AssemblyInfo.cs
+C:\Users\ernes\source\repos\AOE\TecnologiasDecorato\obj\Debug\net5.0\TecnologiasDecorato.csproj.CoreCompileInputs.cache
+C:\Users\ernes\source\repos\AOE\TecnologiasDecorato\obj\Debug\net5.0\TecnologiasDecorato.csproj.CopyComplete
+C:\Users\ernes\source\repos\AOE\TecnologiasDecorato\obj\Debug\net5.0\TecnologiasDecorato.dll
+C:\Users\ernes\source\repos\AOE\TecnologiasDecorato\obj\Debug\net5.0\ref\TecnologiasDecorato.dll
+C:\Users\ernes\source\repos\AOE\TecnologiasDecorato\obj\Debug\net5.0\TecnologiasDecorato.pdb

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TecnologiasDecorato/1.0.0": {
+        "dependencies": {
+          "Civiles": "1.0.0"
+        },
+        "runtime": {
+          "TecnologiasDecorato.dll": {}
+        }
+      },
+      "Civiles/1.0.0": {
+        "dependencies": {
+          "ComportamientoCivil": "1.0.0"
+        },
+        "runtime": {
+          "Civiles.dll": {}
+        }
+      },
+      "ComportamientoCivil/1.0.0": {
+        "runtime": {
+          "ComportamientoCivil.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TecnologiasDecorato/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Civiles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ComportamientoCivil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

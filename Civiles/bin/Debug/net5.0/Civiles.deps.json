@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Civiles/1.0.0": {
+        "dependencies": {
+          "ComportamientoCivil": "1.0.0"
+        },
+        "runtime": {
+          "Civiles.dll": {}
+        }
+      },
+      "ComportamientoCivil/1.0.0": {
+        "runtime": {
+          "ComportamientoCivil.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Civiles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ComportamientoCivil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

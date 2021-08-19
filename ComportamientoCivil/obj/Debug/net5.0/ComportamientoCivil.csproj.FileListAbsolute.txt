@@ -1,0 +1,12 @@
+C:\Users\ernes\source\repos\AOE\ComportamientoCivil\bin\Debug\net5.0\ComportamientoCivil.deps.json
+C:\Users\ernes\source\repos\AOE\ComportamientoCivil\bin\Debug\net5.0\ComportamientoCivil.dll
+C:\Users\ernes\source\repos\AOE\ComportamientoCivil\bin\Debug\net5.0\ref\ComportamientoCivil.dll
+C:\Users\ernes\source\repos\AOE\ComportamientoCivil\bin\Debug\net5.0\ComportamientoCivil.pdb
+C:\Users\ernes\source\repos\AOE\ComportamientoCivil\obj\Debug\net5.0\ComportamientoCivil.csprojAssemblyReference.cache
+C:\Users\ernes\source\repos\AOE\ComportamientoCivil\obj\Debug\net5.0\ComportamientoCivil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernes\source\repos\AOE\ComportamientoCivil\obj\Debug\net5.0\ComportamientoCivil.AssemblyInfoInputs.cache
+C:\Users\ernes\source\repos\AOE\ComportamientoCivil\obj\Debug\net5.0\ComportamientoCivil.AssemblyInfo.cs
+C:\Users\ernes\source\repos\AOE\ComportamientoCivil\obj\Debug\net5.0\ComportamientoCivil.csproj.CoreCompileInputs.cache
+C:\Users\ernes\source\repos\AOE\ComportamientoCivil\obj\Debug\net5.0\ComportamientoCivil.dll
+C:\Users\ernes\source\repos\AOE\ComportamientoCivil\obj\Debug\net5.0\ref\ComportamientoCivil.dll
+C:\Users\ernes\source\repos\AOE\ComportamientoCivil\obj\Debug\net5.0\ComportamientoCivil.pdb

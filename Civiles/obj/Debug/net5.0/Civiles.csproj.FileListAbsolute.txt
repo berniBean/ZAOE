@@ -1,0 +1,15 @@
+C:\Users\ernes\source\repos\AOE\Civiles\bin\Debug\net5.0\Civiles.deps.json
+C:\Users\ernes\source\repos\AOE\Civiles\bin\Debug\net5.0\Civiles.dll
+C:\Users\ernes\source\repos\AOE\Civiles\bin\Debug\net5.0\ref\Civiles.dll
+C:\Users\ernes\source\repos\AOE\Civiles\bin\Debug\net5.0\Civiles.pdb
+C:\Users\ernes\source\repos\AOE\Civiles\bin\Debug\net5.0\ComportamientoCivil.dll
+C:\Users\ernes\source\repos\AOE\Civiles\bin\Debug\net5.0\ComportamientoCivil.pdb
+C:\Users\ernes\source\repos\AOE\Civiles\obj\Debug\net5.0\Civiles.csprojAssemblyReference.cache
+C:\Users\ernes\source\repos\AOE\Civiles\obj\Debug\net5.0\Civiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernes\source\repos\AOE\Civiles\obj\Debug\net5.0\Civiles.AssemblyInfoInputs.cache
+C:\Users\ernes\source\repos\AOE\Civiles\obj\Debug\net5.0\Civiles.AssemblyInfo.cs
+C:\Users\ernes\source\repos\AOE\Civiles\obj\Debug\net5.0\Civiles.csproj.CoreCompileInputs.cache
+C:\Users\ernes\source\repos\AOE\Civiles\obj\Debug\net5.0\Civiles.csproj.CopyComplete
+C:\Users\ernes\source\repos\AOE\Civiles\obj\Debug\net5.0\Civiles.dll
+C:\Users\ernes\source\repos\AOE\Civiles\obj\Debug\net5.0\ref\Civiles.dll
+C:\Users\ernes\source\repos\AOE\Civiles\obj\Debug\net5.0\Civiles.pdb

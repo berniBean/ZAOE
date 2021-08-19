@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ZAOE/1.0.0": {
+        "dependencies": {
+          "Civiles": "1.0.0",
+          "TecnologiasDecorato": "1.0.0"
+        },
+        "runtime": {
+          "ZAOE.dll": {}
+        }
+      },
+      "Civiles/1.0.0": {
+        "dependencies": {
+          "ComportamientoCivil": "1.0.0"
+        },
+        "runtime": {
+          "Civiles.dll": {}
+        }
+      },
+      "ComportamientoCivil/1.0.0": {
+        "runtime": {
+          "ComportamientoCivil.dll": {}
+        }
+      },
+      "TecnologiasDecorato/1.0.0": {
+        "dependencies": {
+          "Civiles": "1.0.0"
+        },
+        "runtime": {
+          "TecnologiasDecorato.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZAOE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Civiles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ComportamientoCivil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TecnologiasDecorato/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
